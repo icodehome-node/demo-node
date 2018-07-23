@@ -1,0 +1,26 @@
+{
+  "name": "demo-project",
+  "version": "1.0.0",
+  "description": "This is Demo project for NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icodehome-node/demo-node.git"
+  },
+  "keywords": [
+    "node",
+    "grunt"
+  ],
+  "author": "Arun Kumar Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icodehome-node/demo-node/issues"
+  },
+  "homepage": "https://github.com/icodehome-node/demo-node#readme",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
